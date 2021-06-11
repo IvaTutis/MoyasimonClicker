@@ -1,2 +1,3 @@
-# MoyasimonClicker
-A simple clicker game made for University class RP3
+# Moyasimon Clicker
+ 
+A simple clicker game made using Windows Forms 

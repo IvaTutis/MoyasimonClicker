@@ -1,0 +1,11 @@
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\bin\Debug\MoyasimonClicker.exe.config
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\bin\Debug\MoyasimonClicker.exe
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\bin\Debug\MoyasimonClicker.pdb
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.Form1.resources
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.PetriDishControl.resources
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.Properties.Resources.resources
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.csproj.GenerateResource.cache
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.exe
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.pdb
+C:\Users\Iva\source\repos\RP3_dz2\RP3_dz2\obj\Debug\MoyasimonClicker.csprojAssemblyReference.cache
